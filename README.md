@@ -4,7 +4,7 @@
 
 ## Özellikler
 
-🔢 @Peter Norvig'in hesaplarına göre, toplam geçerli Sudoku çözüm sayısı yaklaşık 6.67 x 10^21'dir. Bu sayı, 19 sıfırlı 667 sayısı yani 6,670,000,000,000,000,000,000 olarak ifade edilebilir. Bu kadar büyük bir çözüm alanı, çeşitli tekniklerin ve algoritmaların kullanımını gerektirir.
+🔢 Peter Norvig'in hesaplarına göre, toplam geçerli Sudoku çözüm sayısı yaklaşık 6.67 x 10^21'dir. Bu sayı, 19 sıfırlı 667 sayısı yani 6,670,000,000,000,000,000,000 olarak ifade edilebilir. Bu kadar büyük bir çözüm alanı, çeşitli tekniklerin ve algoritmaların kullanımını gerektirir.
 
 Sudoku çözümleme tekniklerinden bazıları şunlardır:
 - Hidden Single
