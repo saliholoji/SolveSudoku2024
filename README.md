@@ -64,7 +64,7 @@ Ancak, bu projede onlarca fonksiyon yerine sadece iki temel fonksiyon kullanarak
 
 1. Bu projeyi klonlayın:
     ```sh
-    git clone https://github.com/kullaniciadi/sudoku-solver.git
+    git clone https://github.com/saliholoji/SolveSudoku2024.git
     ```
 2. Proje dizinine gidin:
     ```sh
