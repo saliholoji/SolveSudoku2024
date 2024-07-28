@@ -1,6 +1,9 @@
 # Sudoku Solver
 
-🎯 Bu proje, Leet Code üzerinde karşılaştığım en zor seviyedeki "Sudoku Solver" problemini çözmek için geliştirilmiştir. Sudoku bulmacalarını çözmeyi ve ileri seviye algoritmaları yeniden öğrenmek için @YouTube'da bolca pratik yaptım.
+🎯 Bu proje, Leet Code üzerinde karşılaştığım en zor seviyedeki "Sudoku Solver" problemini çözmek için geliştirilmiştir. Sudoku bulmacalarını çözmeyi ve ileri seviye algoritmaları yeniden öğrenmek için YouTube'da bolca pratik yaptım.
+
+🔗 Leetcode.com üzerinden problemi incelemek isterseniz: [https://leetcode.com/problems/sudoku-solver/](https://leetcode.com/problems/sudoku-solver/) 
+
 
 ## Özellikler
 
